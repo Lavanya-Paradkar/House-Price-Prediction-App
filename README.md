@@ -5,6 +5,7 @@ This app empowers the user, who wants to know the estimated price of the houses,
 #Steps for making house predictions :
   
   1. Set up a virtual python environment, 
+  
         1.1 Use  pip install virtual env  command
         1.2 Activate the virtual env using, venv\Scripts\activate  command
   
