@@ -7,6 +7,7 @@ This app empowers the user, who wants to know the estimated price of the houses,
   1. Set up a virtual python environment, 
   
         1.1 Use  pip install virtual env  command
+        
         1.2 Activate the virtual env using, venv\Scripts\activate  command
   
   2. Install flask and other libraries as listed in requirements file.
